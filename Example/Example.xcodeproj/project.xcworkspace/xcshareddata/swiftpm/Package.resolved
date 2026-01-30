@@ -1,0 +1,15 @@
+{
+  "originHash" : "ef1dd07be20905f32ec5a900c84515bfad07d60c646356b82fabcaddbe1486b9",
+  "pins" : [
+    {
+      "identity" : "ios-network-concurrency",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:hnaikdev/ios-network-concurrency.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8347d5ee96209714d68e240e9f1599766c1ed42c"
+      }
+    }
+  ],
+  "version" : 3
+}
